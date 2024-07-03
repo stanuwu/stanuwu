@@ -1,6 +1,7 @@
 ![committers.top badge](https://user-badge.committers.top/austria/stanuwu.svg)
 
 Hey, I'm Stan. A developer from Austria.
+
 My interests include:
 Framework Design, Reverse Engineering, Game Modding, Real Time Rendering, Minecraft, Drivers
 
