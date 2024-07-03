@@ -1,16 +1,26 @@
-## Hi there 👋
+Hey, I'm Stan. A developer from Austria.
+My interests include:
+- Framework Design
+- Reverse Engineering
+- Game Modding
+- Real Time Rendering
+- Minecraft
 
-<!--
-**stanuwu/stanuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages I'm proficient in:
+- C#
+- Java
+- C++
+- GLSL
+- TypeScript
+- JavaScript
+- Python
+- Z80 Assembly
 
-Here are some ideas to get you started:
+Languages I'm learning:
+- C
+- Rust
+- x86 Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![committers.top badge](https://user-badge.committers.top/austria/stanuwu.svg)
+![stanuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanuwu)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanuwu)
