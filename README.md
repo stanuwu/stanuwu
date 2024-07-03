@@ -1,3 +1,5 @@
+![committers.top badge](https://user-badge.committers.top/austria/stanuwu.svg)
+
 Hey, I'm Stan. A developer from Austria.
 My interests include:
 - Framework Design
@@ -21,6 +23,5 @@ Languages I'm learning:
 - Rust
 - x86 Assembly
 
-![committers.top badge](https://user-badge.committers.top/austria/stanuwu.svg)
-![stanuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanuwu)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanuwu)
+![stanuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanuwu)]
