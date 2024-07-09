@@ -1,4 +1,5 @@
 ![committers.top badge](https://user-badge.committers.top/austria/stanuwu.svg)
+<- if this says unrated im being lazy
 
 Hey, I'm Stan. A developer from Austria.
 
