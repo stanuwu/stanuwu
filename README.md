@@ -1,3 +1,5 @@
+!! No AI Allowed !!
+
 - Framework Design
 - Game Development
 - 2D/3D Rendering
