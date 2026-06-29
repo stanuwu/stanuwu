@@ -1,4 +1,4 @@
-!! No AI Allowed !!
+Companies are taking your life away and selling it back to you.
 
 - Framework Design
 - Game Development
