@@ -29,4 +29,4 @@
 > Monero XMR - 42tYkNy6Krz3zgThhmTgao49ZdfoRBxRfJXrepHQ6uGNEw3wGEnkCYTGijUNwX9sWESorqYKP9wwh9yWJSb4fU8T85MVSzG
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stanuwu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=stanuwu&langs_count=4&theme=dark&exclude_repo=d2-cui-explorer"/>
+<img height="240em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=stanuwu&langs_count=4&theme=dark&exclude_repo=d2-cui-explorer"/>
